@@ -1,10 +1,10 @@
 # Django Model
 
-> This is a huddle landing page
+> This is a django app model creation
 
-## Mobile Screenshot
+## Screenshot
 
-![Screenshot]()
+![Blog Post](./I4G0028685VH/I4G0028685VH/image/admin_blog_post_add_.png)
 
 ## Built With
 
